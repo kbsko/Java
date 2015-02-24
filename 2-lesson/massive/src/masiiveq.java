@@ -31,8 +31,7 @@ public class masiiveq {
         int trigger = 0;
         int q;
         System.out.println(Arrays.toString(intmas));
-        System.out.println(Arrays.toString(intmas));
-        System.out.print("q:");
+        System.out.print("Input q:");
         q = Input();
 
 
